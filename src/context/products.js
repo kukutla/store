@@ -1,6 +1,6 @@
 import React from "react";
-import axios from "axios";
-import url from "../utils/URL";
+//import axios from "axios";
+//import url from "../utils/URL";
 import featuredProducts from "../utils/helpers";
 import data from "../utils/localCart.js";
 export const ProductContext = React.createContext();
